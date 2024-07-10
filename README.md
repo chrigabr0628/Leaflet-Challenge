@@ -28,12 +28,6 @@ Push the above changes to GitHub.
 
 Instructions
 
-The instructions for this activity:
-
-Create the Earthquake Visualization
-
-
-
 Create the Earthquake Visualization
 
 Complete the following steps:
